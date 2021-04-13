@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d30cd179.chunk.css",
+    "main.js": "/static/js/main.014ba8e9.chunk.js",
+    "main.js.map": "/static/js/main.014ba8e9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4a8edc15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4a8edc15.js.map",
+    "static/js/2.58750e41.chunk.js": "/static/js/2.58750e41.chunk.js",
+    "static/js/2.58750e41.chunk.js.map": "/static/js/2.58750e41.chunk.js.map",
+    "static/js/3.9f38cb24.chunk.js": "/static/js/3.9f38cb24.chunk.js",
+    "static/js/3.9f38cb24.chunk.js.map": "/static/js/3.9f38cb24.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d30cd179.chunk.css.map": "/static/css/main.d30cd179.chunk.css.map",
+    "static/js/2.58750e41.chunk.js.LICENSE.txt": "/static/js/2.58750e41.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/2021-pexels-skylar-kang-6431883.6629226d.jpg",
+    "static/media/autumn-pexels-simon-berger-3264706.c1b10006.jpg": "/static/media/autumn-pexels-simon-berger-3264706.c1b10006.jpg",
+    "static/media/balloons-pexels-tirachard-kumtanom-574282.c5512347.jpg": "/static/media/balloons-pexels-tirachard-kumtanom-574282.c5512347.jpg",
+    "static/media/bird-pexels-mark-broadhurst-105808.635f9656.jpg": "/static/media/bird-pexels-mark-broadhurst-105808.635f9656.jpg",
+    "static/media/boats-pexels-curioso-photography-4374744.4ffd603c.jpg": "/static/media/boats-pexels-curioso-photography-4374744.4ffd603c.jpg",
+    "static/media/bubble-pexels-josh-sorenson-831890.7d391184.jpg": "/static/media/bubble-pexels-josh-sorenson-831890.7d391184.jpg",
+    "static/media/canyon-pexels-chris-janda-62600.8b3bb7f5.jpg": "/static/media/canyon-pexels-chris-janda-62600.8b3bb7f5.jpg",
+    "static/media/flower-pexels-cindy-gustafson-670741.80d6c4bf.jpg": "/static/media/flower-pexels-cindy-gustafson-670741.80d6c4bf.jpg",
+    "static/media/green-pexels-cindy-gustafson-639152.506edf44.jpg": "/static/media/green-pexels-cindy-gustafson-639152.506edf44.jpg",
+    "static/media/lake-pexels-nuwan-chamara-3087240.d12da8b5.jpg": "/static/media/lake-pexels-nuwan-chamara-3087240.d12da8b5.jpg",
+    "static/media/Tile.scss": "/static/media/rainbow-mountains-pexels-simon-berger-1323550.683e929d.jpg",
+    "static/media/reflection-pexels-janiere-fernandez-2874111.aa935885.jpg": "/static/media/reflection-pexels-janiere-fernandez-2874111.aa935885.jpg",
+    "static/media/ship-pexels-curioso-photography-343701.43ce808d.jpg": "/static/media/ship-pexels-curioso-photography-343701.43ce808d.jpg",
+    "static/media/turtle-pexels-pedro-furtado-rodrigues-7193711.71976db6.jpg": "/static/media/turtle-pexels-pedro-furtado-rodrigues-7193711.71976db6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a8edc15.js",
+    "static/js/2.58750e41.chunk.js",
+    "static/css/main.d30cd179.chunk.css",
+    "static/js/main.014ba8e9.chunk.js"
+  ]
+}
