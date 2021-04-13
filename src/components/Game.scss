@@ -1,0 +1,43 @@
+.Game {
+    display: flex;
+    flex-direction: column;
+
+    .container {
+        display: inline-grid;
+        grid-gap: 5px;    
+       
+    }
+
+    &.easy {
+        .container {
+           grid-template-columns: repeat(4, 1fr); 
+        }   
+    }
+
+    &.medium {
+        .container {
+            grid-template-columns: repeat(4, 1fr);
+        }
+        
+    }
+
+    &.hard {
+        .container {
+            grid-template-columns: repeat(6, 1fr);
+        }  
+    }
+
+    @media screen and (max-width: 700px) {
+        &.easy {
+            .container {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        &.hard {
+            .container {
+                grid-template-columns: repeat(4, 1fr);
+            }
+        }
+    }
+}

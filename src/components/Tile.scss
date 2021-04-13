@@ -1,0 +1,35 @@
+.Tile {
+    height: 120px;
+    width: 120px;
+  
+    .back {
+        height: 100%;
+        background: url('../assets/rainbow-mountains-pexels-simon-berger-1323550.jpg');
+        background-size: cover;
+    }
+    .front {
+        height: 100%;
+        background-size: cover;
+        animation: fade-in 0.3s ease-in;
+    }
+
+    @keyframes fade-in {
+        from {
+            opacity: 0;
+            transform: scaleX(0);
+        }
+        to {
+            opacity: 100;
+            transform: scaleX(1);
+        }
+        
+    }
+
+    @media screen and (max-width: 700px) {
+        & {
+            height: 100px;
+            width: 100px;
+        }
+        
+    }
+}
